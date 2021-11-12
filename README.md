@@ -13,7 +13,7 @@ What is hard is having a good attitude and being a good person. Those qualities 
 
 I like refactoring. I look at an old run down code base the same way I look at an old beat up 94' e36.. In awe. I see the potential, and how much fun it will be to restore. Greenfield projects are so mainstream🙄   
 
-Jokes aside, I really enjoy learning from people like Sandy Metz, and Martin Fowler. They have taught me about what refactoring really means. **Spoiler alert:** It's about changing the structure of code to make it more open to change, not about making code prettier. And get this, there are right and wrong ways of doing it.
+Jokes aside, I really enjoy learning from people like Sandi Metz, and Martin Fowler. They have taught me about what refactoring really means. **Spoiler alert:** It's about changing the structure of code to make it more open to change, not about making code prettier. And get this, there are right and wrong ways of doing it.
 
 I like tests. Once upon a time I was warned about how many companies don't test.. yet I still cringe each time I see it. *If you don't test you are doing it wrong.*  
 
