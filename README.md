@@ -4,7 +4,7 @@ I love to code and I *love* a good e36
 
 ## What I'm About
 
-I believe in simple solutions. I strongly believe that *software engineers* are not special. Anyone who has a desire to learn can do what we do, it's not hard. 
+I believe in simple solutions. I strongly believe that software engineers *are not special*. Anyone who has a desire to learn can do what we do, it's not hard. 
 
 What is hard is having a good attitude and being a good person. Those qualities are **so** much more important than being technically exceptional. Because like I said, anyone can learn this shit.
 
